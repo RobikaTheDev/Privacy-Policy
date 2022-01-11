@@ -1,16 +1,12 @@
 # Privacy-Policy
 
-Welcome to the Quiz Masini app for Android!
+Robert Musoiu built the Quiz Masini app as an Ad Supported app. This SERVICE is provided by Robert Musoiu at no cost and is intended for use as is.
 
-This is an open source Android app developed by Robert Musoiu. The app is also available on Google Play.
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-As an avid Android user myself, I take privacy very seriously.
-I know how irritating it is when apps collect your data without your knowledge.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.) and alarms) created by the you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
-
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
-
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Quiz Masini unless otherwise defined in this Privacy Policy.
 Yours sincerely,  
 Robert Musoiu.  
 Ploiesti,Romania.  
